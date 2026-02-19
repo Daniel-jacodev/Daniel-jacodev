@@ -4,8 +4,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jacobsdxnn/)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-jac%C3%B3-ab35ab304/)[![Twich](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/djacobs)
 
 
-![Jacobs's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-jacodev&show_icons=true&bg_color=000000)
-
 
 ## Tecnologia que uso no meu dia a dia
 
