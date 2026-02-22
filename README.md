@@ -5,15 +5,83 @@
 
 
 
-## Tecnologia que uso no meu dia a dia
-
-<div style="display: inline_block"><br/>
-<img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="center" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img align="center" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+## 🤖 Linguagens e Tecnologia que uso no meu dia a dia
 
 
-</div><br/>
+<img align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
+<img align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
+
+<img align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
+
+<img align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+
+<img align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+          
+<img align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+
+
+  <img align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+
+<img align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+
+<img align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
+<img align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    
+ <img align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+          
+          
+          
+          
+          
+          
+   
+---          
+          
 
 #### Sou estudante na Universidade Federa do Ceará e alguém que sempre foi apaixonado por tecnologia e por entender como as coisas funcionam. Fora do mundo do código, gosto bastante de treinar, ler e jogar. A academia faz parte da minha rotina, e a leitura é uma das formas que encontro para aprender constantemente — seja sobre tecnologia, desenvolvimento pessoal ou outros assuntos que despertem curiosidade. 
