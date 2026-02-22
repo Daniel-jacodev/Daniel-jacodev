@@ -4,8 +4,7 @@
 #### Sou estudante na Universidade Federa do Ceará e alguém que sempre foi apaixonado por tecnologia e por entender como as coisas funcionam. Fora do mundo do código, gosto bastante de treinar, ler e jogar. A academia faz parte da minha rotina, e a leitura é uma das formas que encontro para aprender constantemente — seja sobre tecnologia, desenvolvimento pessoal ou outros assuntos que despertem curiosidade.
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jacobsdxnn/)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-jac%C3%B3-ab35ab304/)[![Twich](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/djacobs)
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jacobsdxnn/)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-jac%C3%B3-ab35ab304/)
 
 
 ## 🤖 Linguagens e Tecnologia que uso no meu dia a dia
