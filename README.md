@@ -76,7 +76,14 @@
     alt="HTML"
     title="HTML" 
     width="30px" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />      
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+
+<img align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+          
 
 <br/>
 <br/>
