@@ -16,4 +16,4 @@
 
 </div><br/>
 
-### Sou estudante na Universidade Federa do Ceará e alguém que sempre foi apaixonado por tecnologia e por entender como as coisas funcionam. Fora do mundo do código, gosto bastante de treinar, ler e jogar. A academia faz parte da minha rotina, e a leitura é uma das formas que encontro para aprender constantemente — seja sobre tecnologia, desenvolvimento pessoal ou outros assuntos que despertem curiosidade. 
+#### Sou estudante na Universidade Federa do Ceará e alguém que sempre foi apaixonado por tecnologia e por entender como as coisas funcionam. Fora do mundo do código, gosto bastante de treinar, ler e jogar. A academia faz parte da minha rotina, e a leitura é uma das formas que encontro para aprender constantemente — seja sobre tecnologia, desenvolvimento pessoal ou outros assuntos que despertem curiosidade. 
