@@ -16,6 +16,6 @@
 
 </div><br/>
 
-##Sou estudante na Universidade Federa do Ceará e alguém que sempre foi apaixonado por tecnologia e por entender como as coisas funcionam.
-Fora do mundo do código, gosto bastante de treinar, ler e jogar. A academia faz parte da minha rotina, e a leitura é uma das formas que encontro para aprender constantemente — seja sobre tecnologia, desenvolvimento pessoal ou outros assuntos que despertem curiosidade.
-Gosto de desafios, de evoluir um pouco todos os dias e de construir coisas que façam sentido. Para mim, tecnologia é mais do que ferramenta: é uma forma de transformar ideias em algo real.
+## Sou estudante na Universidade Federa do Ceará e alguém que sempre foi apaixonado por tecnologia e por entender como as coisas funcionam.
+## Fora do mundo do código, gosto bastante de treinar, ler e jogar. A academia faz parte da minha rotina, e a leitura é uma das formas que encontro para aprender constantemente — seja sobre tecnologia, desenvolvimento pessoal ou outros assuntos que despertem curiosidade.
+## Gosto de desafios, de evoluir um pouco todos os dias e de construir coisas que façam sentido. Para mim, tecnologia é mais do que ferramenta: é uma forma de transformar ideias em algo real.
