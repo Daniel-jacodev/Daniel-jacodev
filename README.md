@@ -13,6 +13,9 @@
 <img align="center" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img align="center" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 
+            <i class="devicon-python-plain"></i>
+          
+
 
 </div><br/>
 
