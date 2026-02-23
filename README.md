@@ -99,7 +99,7 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-blue-three-81.vercel.app/api?username=Daniel-jacodev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats-blue-three-81.vercel.app/api?username=Daniel-jacodev&show_icons=true&theme=tokyonight&include_all_commits=false&locale=pt-br" 
   />
 
 <img 
