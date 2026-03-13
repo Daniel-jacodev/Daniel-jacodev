@@ -24,25 +24,25 @@
 
 <img align="left" 
     alt="Go!"
-    title="HTML" 
+    title="Go!" 
     width="30px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
 
 <img align="left" 
     alt="Docker"
-    title="HTML" 
+    title="Docker" 
     width="30px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 
 <img align="left" 
     alt="Kotlin"
-    title="HTML" 
+    title="Kotlin" 
     width="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
           
 <img align="left" 
     alt="HTML"
-    title="HTML" 
+    title="Node.js" 
     width="30px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
 
@@ -55,19 +55,19 @@
 
 <img align="left" 
     alt="HTML"
-    title="HTML" 
+    title="Postamn" 
     width="30px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 
 <img align="left" 
     alt="HTML"
-    title="HTML" 
+    title="Git" 
     width="30px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
 <img align="left" 
     alt="HTML"
-    title="HTML" 
+    title="Java" 
     width="30px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
     
@@ -79,7 +79,7 @@
 
 <img align="left" 
     alt="HTML"
-    title="HTML" 
+    title="MongoDB" 
     width="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
           
