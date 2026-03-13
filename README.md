@@ -12,30 +12,30 @@
 
 <img align="left" 
     alt="HTML"
-    title="HTML" 
+    title="Python" 
     width="30px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
 <img align="left" 
     alt="HTML"
-    title="HTML" 
+    title="FASTAPI" 
     width="30px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
 
 <img align="left" 
-    alt="HTML"
+    alt="Go!"
     title="HTML" 
     width="30px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
 
 <img align="left" 
-    alt="HTML"
+    alt="Docker"
     title="HTML" 
     width="30px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 
 <img align="left" 
-    alt="HTML"
+    alt="Kotlin"
     title="HTML" 
     width="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
